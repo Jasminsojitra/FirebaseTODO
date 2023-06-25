@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-0 /Users/imac/.gradle/caches/transforms-3/126291faa35cff61152659b65ca99f95/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-1 /Users/imac/.gradle/caches/transforms-3/55a608fec7f271a13b347f5227d9e028/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-2 /Users/imac/.gradle/caches/transforms-3/9cf67005fa58b8bb7520b3a8fa9a5b67/transformed/core-1.6.0/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-3 /Users/imac/.gradle/caches/transforms-3/c3d1eae5dc5f7379a027da9cb98e0c68/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 /Users/imac/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27/android/src/main/res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 /Users/imac/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27/android/src/release/res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 /Users/imac/Documents/jasmin_todo/build/path_provider_android/generated/res/pngs/release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 /Users/imac/Documents/jasmin_todo/build/path_provider_android/generated/res/resValues/release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 /Users/imac/Documents/jasmin_todo/build/path_provider_android/generated/res/rs/release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 /Users/imac/Documents/jasmin_todo/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 /Users/imac/Documents/jasmin_todo/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 /Users/imac/Documents/jasmin_todo/build/path_provider_android/intermediates/merged_res/release

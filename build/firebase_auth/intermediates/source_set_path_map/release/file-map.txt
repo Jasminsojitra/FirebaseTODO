@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-0 /Users/imac/.gradle/caches/transforms-3/126291faa35cff61152659b65ca99f95/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-1 /Users/imac/.gradle/caches/transforms-3/55a608fec7f271a13b347f5227d9e028/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.3.2-2 /Users/imac/.gradle/caches/transforms-3/610079c1d3038a05cc4a42eeff3c689c/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-3 /Users/imac/.gradle/caches/transforms-3/8f11d602d60f8f479263641f4ea05915/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-4 /Users/imac/.gradle/caches/transforms-3/9cf67005fa58b8bb7520b3a8fa9a5b67/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-5 /Users/imac/.gradle/caches/transforms-3/af66a4fd5422eab999ceb7d5a3b254b4/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-6 /Users/imac/.gradle/caches/transforms-3/c3d1eae5dc5f7379a027da9cb98e0c68/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-7 /Users/imac/.gradle/caches/transforms-3/ee72ad10c30b2bccce8302478c03bd3d/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/imac/.pub-cache/hosted/pub.dev/firebase_auth-4.6.3/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/imac/.pub-cache/hosted/pub.dev/firebase_auth-4.6.3/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/imac/Documents/jasmin_todo/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/imac/Documents/jasmin_todo/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/imac/Documents/jasmin_todo/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/imac/Documents/jasmin_todo/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/imac/Documents/jasmin_todo/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/imac/Documents/jasmin_todo/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/imac/Documents/jasmin_todo/build/firebase_core/intermediates/packaged_res/release

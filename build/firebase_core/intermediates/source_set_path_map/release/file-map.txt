@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-0 /Users/imac/.gradle/caches/transforms-3/126291faa35cff61152659b65ca99f95/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 /Users/imac/.gradle/caches/transforms-3/55a608fec7f271a13b347f5227d9e028/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.2-2 /Users/imac/.gradle/caches/transforms-3/610079c1d3038a05cc4a42eeff3c689c/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-3 /Users/imac/.gradle/caches/transforms-3/9cf67005fa58b8bb7520b3a8fa9a5b67/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 /Users/imac/.gradle/caches/transforms-3/c3d1eae5dc5f7379a027da9cb98e0c68/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-5 /Users/imac/.gradle/caches/transforms-3/ee72ad10c30b2bccce8302478c03bd3d/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/imac/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/imac/.pub-cache/hosted/pub.dev/firebase_core-2.14.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/imac/Documents/jasmin_todo/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/imac/Documents/jasmin_todo/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/imac/Documents/jasmin_todo/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/imac/Documents/jasmin_todo/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/imac/Documents/jasmin_todo/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/imac/Documents/jasmin_todo/build/firebase_core/intermediates/merged_res/release

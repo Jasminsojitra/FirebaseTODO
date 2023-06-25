@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-0 /Users/imac/.gradle/caches/transforms-3/126291faa35cff61152659b65ca99f95/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-1 /Users/imac/.gradle/caches/transforms-3/55a608fec7f271a13b347f5227d9e028/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.2-2 /Users/imac/.gradle/caches/transforms-3/610079c1d3038a05cc4a42eeff3c689c/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-3 /Users/imac/.gradle/caches/transforms-3/9cf67005fa58b8bb7520b3a8fa9a5b67/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-4 /Users/imac/.gradle/caches/transforms-3/af66a4fd5422eab999ceb7d5a3b254b4/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-5 /Users/imac/.gradle/caches/transforms-3/c3d1eae5dc5f7379a027da9cb98e0c68/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-6 /Users/imac/.gradle/caches/transforms-3/ee72ad10c30b2bccce8302478c03bd3d/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 /Users/imac/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.1/android/src/main/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 /Users/imac/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.1/android/src/release/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/generated/res/pngs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/generated/res/resValues/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/generated/res/rs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 /Users/imac/Documents/jasmin_todo/build/cloud_firestore/intermediates/merged_res/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 /Users/imac/Documents/jasmin_todo/build/firebase_core/intermediates/packaged_res/release
